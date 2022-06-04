@@ -272,7 +272,7 @@ header {
 
 .office {
   padding-left: 28px;
-  background-image: url("../img/keyboard_tab.svg");
+  background-image: url("/img/keyboard_tab.svg");
   background-repeat: no-repeat;
   background-position: center left;
   background-size: auto;
@@ -345,7 +345,7 @@ header {
   font-size: 16px;
   line-height: 16px;
   color: #FFCC66;
-  background-image: url("../img/arrow.svg");
+  background-image: url("/img/arrow.svg");
   background-position: right;
   background-repeat: no-repeat;
 }
@@ -515,7 +515,7 @@ header {
 }
 
 .blog__preview-title {
-  background-image: url("../img/arrow.svg");
+  background-image: url("/img/arrow.svg");
   background-position: center right;
   background-repeat: no-repeat;
   background-size: 20px;
@@ -659,7 +659,7 @@ header {
 .big__image {
   width: 373px;
   height: 460px;
-  background-image: url("../img/placement-photo-8-big.png");
+  background-image: url("/img/placement-photo-8-big.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -960,7 +960,7 @@ header {
   flex-direction: column;
   width: 33%;
   margin-left: 102px;
-  background-image: url("../img/footer-back-image.png");
+  background-image: url("/img/footer-back-image.png");
   background-repeat: no-repeat;
   background-position: bottom right;
 }
